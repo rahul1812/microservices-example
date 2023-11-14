@@ -36,4 +36,6 @@ public class HotelController {
         return ResponseEntity.ok(hotelList);
     }
 
+    
+
 }
